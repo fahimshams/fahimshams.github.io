@@ -1,6 +1,8 @@
 * {
     box-sizing: border-box;
   }
+
+html { background-color: inherit; }
   
   body {
     background-color: #1f4060;
